@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h2> Hi, I'm Chin Wai Siong! You can call me Wai with a S or just Wai Siong <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi there 👋, I'm Chin Wai Siong! You can call me Wai with a S or just Wai Siong <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Currently a full time student studying Bachelor of Software Engineering at <br> <a href="https://university.sunway.edu.my/">Sunway University/ Lancaster University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
