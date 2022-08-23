@@ -19,6 +19,8 @@ const chinese = {
   architecture: ["microservices", "design system pattern"],
 }
 ```
+
+##🚦Stats
 <div>
   <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=WaiS00&theme=highcontrast&show_icons=true" /></span>
   <span><img align="center" width="300px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaiS00&theme=highcontrast&layout=compact&langs_count=10" /></span>
