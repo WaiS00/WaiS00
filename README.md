@@ -19,5 +19,19 @@ const chinese = {
   architecture: ["microservices", "design system pattern"],
 }
 ```
-
+<div>
+  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=WaiS00&theme=highcontrast&show_icons=true" /></span>
+  <span><img align="center" width="300px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaiS00&theme=highcontrast&layout=compact&langs_count=10" /></span>
+</div>
+<div>
+  <a href="https://github.com/WaiS00/Settle-lah-mobile-application">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WaiS00&theme=highcontrast&repo=Settle-lah-mobile-application" />
+  </a>
+  <a href="https://github.com/WaiS00/cannon-studio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WaiS00&theme=highcontrast&repo=cannon-studio" />
+  </a>
+  <a href="https://github.com/WaiS00/binary-search-tree">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WaiS00&theme=highcontrast&repo=binary-search-tree" />
+  </a>
+</div>
 ---
