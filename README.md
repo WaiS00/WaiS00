@@ -27,7 +27,7 @@ const chinese = {
 </div>
 <div>
     <a href="https://github.com/WaiS00/hotel-mania-hms">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WaiS00&theme=highcontrast&repo=" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WaiS00&theme=highcontrast&repo=hotel-mania-hms" />
   </a>
   <a href="https://github.com/WaiS00/Settle-lah-mobile-application">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WaiS00&theme=highcontrast&repo=Settle-lah-mobile-application" />
